@@ -6,6 +6,7 @@ Bu proje, Avrupa’nın önde gelen futbol liglerine ait maç ve takım verileri
 
 Proje kapsamında veri seti üzerinde veri temizleme, feature engineering ve analiz süreçleri uygulanmış; elde edilen bulgular Power BI dashboard üzerinden görselleştirilmiş ve ek olarak makine öğrenmesi modeli ile tahmine dayalı analizler gerçekleştirilmiştir.
 
+
 🧰 Kullanılan Araçlar & Teknolojiler
 
 Google Sheets / BigQuery – veri ön işleme
