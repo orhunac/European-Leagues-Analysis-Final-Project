@@ -57,19 +57,34 @@ Bazı ligler hızlı ve bol gollü oyunlara sahne olurken, bazıları daha takti
 Dashboard toplamda 3 ana bölümden oluşmaktadır:
 
 🎯 1. Maç Verileri
+
 Lig genel KPI’ları
+
 Maçlara göre takım foprmasyon verileri
+
 Maç sonuçları verileri
+
 🎯 2. Oyuncu Performansı
+
 Oyuncu KPI'ları
+
 Oyuncuların yetenek puanları
+
 Avrupa ligindeki oyuncuların yaş verileri
+
 Lig, takım, sene ve oyuncu pozisyonlarına göre slicerlar
+
 🎯 3. Takım Performansı
+
 Takım KPI'ları
+
 Takımların istatistiki puanları
+
 Takımların gol istatistikleri
+
 Takımların maç istatistikleri
+
+
 📊 Veri Seti
 
 Veri seti şu bilgileri içermektedir:
