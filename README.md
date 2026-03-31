@@ -48,42 +48,42 @@ Bazı ligler hızlı ve bol gollü oyunlara sahne olurken, bazıları daha takti
 
 🗂 Dashboard İçeriği
 
-Dashboard toplamda 5 ana bölümden oluşmaktadır:
+Dashboard toplamda 3 ana bölümden oluşmaktadır:
 
-🎯 1. Overview (Genel Bakış)
+🎯 1. Maç Verileri
 Lig genel KPI’ları
-Temel performans göstergeleri
-Temiz ve minimal tasarım
-🎯 2. Takım Performansı
-Takım sıralamaları
-Galibiyet / mağlubiyet oranları
-Gol istatistikleri
-🎯 3. Maç Analizi
-Maç sonuç dağılımları
-İç saha vs deplasman performansı
-Skor analizleri
-🎯 4. Lig Karşılaştırması
-Lig bazlı performans karşılaştırmaları
-Gol trendleri
-Rekabet seviyesi analizi
-🎯 5. Machine Learning Insights
-Tahmin modeli çıktıları
-Feature importance grafikleri
-Model yorumları
+Maçlara göre takım foprmasyon verileri
+Maç sonuçları verileri
+🎯 2. Oyuncu Performansı
+Oyuncu KPI'ları
+Oyuncuların yetenek puanları
+Avrupa ligindeki oyuncuların yaş verileri
+Lig, takım, sene ve oyuncu pozisyonlarına göre slicerlar
+🎯 3. Takım Performansı
+Takım KPI'ları
+Takımların istatistiki puanları
+Takımların gol istatistikleri
+Takımların maç istatistikleri
 📊 Veri Seti
 
 Veri seti şu bilgileri içermektedir:
 
-Maç sonuçları
-Takım ve Oyuncu istatistikleri
+Ülke Bilgileri
 Lig bilgileri
+Maç bilgileri
+Oyuncu bilgileri
+Oyuncu istatistikleri
+Takım bilgileri
+Takım istatistikleri
 
 Ek olarak oluşturulan özellikler:
 
 Performans oranları
 Gol bazlı metrikler
 İç saha / deplasman göstergeleri
-Takım güç skorları
+Takım ve oyuncu güç skorları
+Oyuncu pozisyon kategorizasyonu
+Oyuncu kıdem kategorizasyonu
 
 💡 İş / Futbol İçgörüleri
 Hücum ve savunma dengesi başarıyı belirler
